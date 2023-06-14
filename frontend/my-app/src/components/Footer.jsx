@@ -10,7 +10,7 @@ const Footer = () => {
                         Terminos de uso
                     </a>
                     <a href=" #" className="link link-hover text-white">
-                        Plotica de Privacidad
+                        Politica de Privacidad
                     </a>
                     <a href=" #" className="link link-hover text-white">
                         Politica de Cookies
